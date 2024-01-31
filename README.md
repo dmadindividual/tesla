@@ -3,7 +3,7 @@
 ## Overview
 This React project demonstrates user authentication using Firebase. It allows users to sign in and redirects them to the home page upon successful authentication.
 
-![React Firebase Authentication Screenshot](./screenshots/auth-demo.png)
+
 
 ## Features
 - Firebase Authentication for user sign-in.
